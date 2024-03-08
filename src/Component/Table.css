@@ -1,0 +1,51 @@
+
+#info {
+  border: 2px solid black;
+  align-items: center;
+  border-collapse: collapse;
+  width: 70%;
+  margin-left: 15%;
+  margin-top: 10px;
+}
+.th {
+  text-align: center;
+  border: 1px solid black;
+  padding: 5px;
+}
+.button{
+    padding:5px;
+}
+#newElement{
+    padding: 5px;
+    margin-top: 15px;
+    font-size: large;
+    background-color: green;
+    color: white;
+}
+.divElement{
+    display: flex;
+    justify-content: right;
+    margin-right: 20%;
+    margin-top: 10%;
+}
+.data{
+  text-align: left;
+  border: 1px solid black;
+  padding: 5px;
+  background-color: red;
+  color: white;
+}
+.data1{
+  text-align: left;
+  border: 1px solid black;
+  padding: 5px;
+}
+#delete{
+  margin-left: 5px;
+  background-color: red;
+  color: white;
+}
+#edit{
+  background-color: green;
+  color: white;
+}
